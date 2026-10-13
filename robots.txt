@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+# Independent demo, enable indexing only after written firm approval.
